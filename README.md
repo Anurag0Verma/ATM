@@ -23,7 +23,7 @@ This project is a simple ATM machine simulation program created in Java using Ja
     * JavaFX: [https://www.oracle.com/java/technologies/install-javafx-sdk.html](https://www.oracle.com/java/technologies/install-javafx-sdk.html)
 2. Clone or download the repository to your local machine.
 3. Open the project in your preferred IDE.
-4. Run the main application class (e.g., `ATM.java`).
+4. Run the main application class `APP.java`.
 
 **Running the Application**
 
@@ -31,13 +31,13 @@ This project is a simple ATM machine simulation program created in Java using Ja
 2. Run the following command to compile the project:
 
 ```bash
-javac ATM.java
+javac APP.java
 ```
 
 3. Run the following command to execute the application:
 
 ```bash
-java ATM
+java APP
 ```
 
 **Limitations**
